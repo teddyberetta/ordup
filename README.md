@@ -28,7 +28,7 @@ https://ordinals.com/inscription/70415f81ff21f1d391056c9d8d98b74af78c5b2397822e8
 
 ## Etymology
 
-ordup is a triple-entendre portmanteau of the words "ordinal", "upvote", and "word up".
+ordup is a portmanteau of the words "ordinal", "upvote", and "word up".
 
 in hip-hop, "word up" is often used as a form of acknowledgment or approval.
 
